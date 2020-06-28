@@ -1,0 +1,2 @@
+# Simplitize
+GitHub Pages
